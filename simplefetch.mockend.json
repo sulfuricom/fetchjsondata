@@ -1,0 +1,35 @@
+[{
+  "server": "sg",
+  "category": [
+    {
+      "catName": "api",
+      "service": [
+        {
+          "serviceName": "video",
+          "status": "live"
+        },
+        {
+          "serviceName": "music",
+          "status": "disable"
+        },
+        {
+          "serviceName": "movie",
+          "status": "down"
+        }
+      ]
+    },
+    {
+      "catName": "website",
+      "service": [
+        {
+          "serviceName": "ladingPage",
+          "status": "down"
+        },
+        {
+          "serviceName":"Register",
+          "status": "wentWrong"
+        }
+      ]
+    }
+  ]
+}]
